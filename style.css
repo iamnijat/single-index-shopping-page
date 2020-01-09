@@ -1,0 +1,86 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+div.polaroid{
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+
+.mediaheadingcolor{
+	color:#4684A3;
+	
+
+}
+
+
+.navbarheight{
+	min-height: 50px;
+}
+
+
+
+
+.logoli{
+
+
+font-family: 'Raleway', sans-serif !important;
+
+font-size: 18px !important;
+
+
+}
+
+
+
+.sliderwidth{
+	width: 100px !important;
+	height: 100px !important;
+}
+
+.cardheight{
+
+height: 247px !important;
+
+}
+
+.cardheight1{
+
+height: 510px !important;
+
+
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+  h2 {
+    font-size: 25px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  b {
+    font-size: 21px !important;
+  }
+
+  h2 {
+    font-size: 21px !important;
+  }
+
+  h1 {
+    font-size: 15px !important;
+  }
+
+  .categorybutton{
+        font-size: 15px !important;
+
+        }
+
+
+        .categorymargin{
+        margin-left: 52px !important;
+        }
+}
+
